@@ -1,4 +1,4 @@
-# sklearn feature-extraction for Chinese:让sklearn的特征提取支持中文
+# sklearn feature-extraction for Chinese:<br>让sklearn的特征提取支持中文
 
 `sklearn`默认是针对英文，而不支持中文分词。即使用中文分词的tokenizer，比如jiaba，也会在其余的地方遇到问题，比如n_gram下的词汇表：
 
